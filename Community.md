@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Gaurang Srivastava</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Gaurang3110</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/gaurang-srivastava-7b5380287/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology , Nagpur</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
